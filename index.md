@@ -11,7 +11,7 @@
         }
         .xbf{background-color: #33ff33;}
         .too{background-color: #ffff33;}
-        .shr{background-color: blue;}
+        .shr{background-color: #ff0033;}
     </style>
     
     
