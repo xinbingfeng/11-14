@@ -10,7 +10,7 @@
             font-size: 24px;
         }
         .xbf{background-color: #33ff33;}
-        .too{background-color: #fff;}
+        .too{background-color: #ffff33;}
         .shr{background-color: blue;}
     </style>
     
